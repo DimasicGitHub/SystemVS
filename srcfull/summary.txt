@@ -1,0 +1,23 @@
+Summary for jar/mod.jar
+Decompiled with CFR 0.152
+
+
+gF
+----------------------------
+
+<clinit>()
+  Exception : java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+
+
+gY
+----------------------------
+
+a(net.minecraft.class_898 net.minecraft.class_1297 double double double float net.minecraft.class_4587 net.minecraft.class_4597 int net.minecraft.class_897 )
+  Unable to fully structure code
+
+
+hb
+----------------------------
+
+a()
+  Unable to fully structure code
